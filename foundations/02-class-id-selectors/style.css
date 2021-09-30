@@ -1,0 +1,19 @@
+.odd-element{
+	background-color		:#ff8fbf;
+	font-family			:"Verdana" "sans-serif";
+}
+
+#sec-element{
+	color				:#adf0ff;
+	font-size			:36px;
+}
+
+#thrd-element{
+	font-size			:24px;
+}
+
+#fourth-element{
+	background-color		:#aeff90;
+	font-size			:24px;
+	font-weight			:bold;
+}
