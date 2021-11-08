@@ -50,6 +50,9 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	
+	margin:24px;
+	align-self:flex-start;
 }
 button {
 	
