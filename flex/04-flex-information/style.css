@@ -10,8 +10,23 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+	align-self:center;
 }
 
+.cont{
+	display:flex;
+	align-items:flex-start;
+	justify-content:space-around;
+	flex-wrap:wrap;
+	gap:32px;
+	margin :0 20%;
+}
+
+.images{
+	display:flex;
+	gap:52px;
+	justify-content:space-evenly;
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
